@@ -1,0 +1,105 @@
+﻿Shift,Location,Date,Time,Question/Comment,Category,Sex,Age (Est),Notes
+North Charlie,Connolly,2/1/2025,16:43,Where is pltform 6?,Platform Info,F,18,Lost
+,Connolly,,16:45,Whatt platform is the train to Maynooth?,Platform Info,F,30,Confirmation
+,Kilbarak,,17:26,When is the next train to Howth?,Train Time,F,60,No info on the screen
+,Raheny,,18:10,Which direction is Northbound?,Direction,F,35,Confution
+,Raheny,,20:40,What time is the last train?,Last Train,M,55,Confirmation
+,Raheny,,22:05,Where is the toilet?,Toilet,F,15,Toilet info
+,Kilbarak,,23:10,Is there a train to Greystones?,Route Confirmation,M,50,Confirmation
+South Bravo,Onboard,3/1/2015,16:55,Is this Sydney Parade Station?,Location Confirmation,F,25,Lost
+,Dun Laogh.,,17:23,Which train is going Portmarnok,Route Confirmation,F,20,Confution with two trains. Both train showing Bray.
+,Sea Point,,18:05,Which platform is for North?,Route Confirmation,M,25,Probably new dart user.
+,Onboard,,18:50,Is there any toilet on the train?,Toilet,M,45,Tourist
+,Dalkey,,22:02,Why the screen is showing 2 min for last 5 min?,Delay,M,35,Frustated about the time.
+,Connolly,,0:18,Which way to get out?,Platform Info,M,45,Confused about the exit.
+South Alpha,Bray,4/1/2025,17:55,Is this train going to howth or malahid,Route Confirmation,F,25,Confused. Screen showing Howth but train showing Malahid.
+,Onboard,,18:20,How long does it take to reach City center,Direction,F,40,Tourist
+,Kiliney,,18:25,Where is the toilet?,Toilet,M,15,Teen
+,Bray,,20:19,Is Greystones train stopping this side?,Platform Info,M,45,Confirmation
+,Bray,,20:56,Is this going to howth?,Route Confirmation,F,25,Confirmation
+,Bray,,23:15,Does the next train go to Connolly?,Route Confirmation,M,35,Asking the commuter goes to connolly or not.
+Howth Static,Connolly,5/1/2025,16:35,Which platform is for Droheda?,Platform Info,F,18,Confused.
+,Onboard,,16:40,How to get to Malahid?,Route Confirmation,M,30,Seasonal user.
+,Onboard,,16:42,Will you please tell me when it’s Raheny?,Station Stops,F,65,Scared
+,Howth,,17:02,Is this City Center train?,Route Confirmation,M,30,Tourist
+,Howth,,17:15,How to get City Center?,Location Confirmation,M,45,Tourist
+,Howth,,17:17,Which train is this?,Route Confirmation,F,20,Screen was showing Bray.
+,Howth,,17:34,What time is the last train?,Last Train,M,45,Confarmation.
+,Howth,,17:40,Does the next train go to City Center?,Route Confirmation,F,25,Confused
+,Howth,,18:10,What is the time table of the trains to Connolly?,Time Table,M,50,Planning to travel regularly
+,Howth,,18:30,How to get Tara Street?,Route Confirmation,F,35,Tourist
+,Howth,,19:12,Where is the toilet?,Toilet,F,25,Toilet info
+,Howth,,19:35,Is there any toilet in the station?,Toilet,M,35,Toilet info
+,Howth,,21:26,What time is the last train?,Last Train,M,45,Confirmation
+,Howth,,22:00,How to get Clongrifin?,Direction,F,25,New user
+,Howth,,21:10,What time is next train to Greystones?,Train Time,M,50,Confirmation
+North Charlie,Connolly,6/1/2025,16:40,Which Platform is the Droheda train?,Platform Info,F,30,Confused
+,Onboard,,16:58,Is this Raheny station?,Location Confirmation,F,35,Confirmation
+,Kilbarak,,17:21,How to get Malahide?,Route Confirmation,F,55,Confused
+,Raheny,,17:40,Which platform is Bray train?,Platform Info,F,20,Confirmation
+,Clontarf Road,,18:21,Why the Bray train delayed?,Delay,M,40,Angry
+,Harmenstwon,,20:06,I couldn't tag my leap card. Is that okay to get on?,Ticketing,F,35,Confused
+Bray Static,Onboard,7/1/2025,15:15,Is this train going to Greystones?,Route Confirmation,M,25,Confused. Train display showing Bray.
+,Bray,,16:40,Which platform is to Connolly?,Platform Info,M,45,Confirmation
+,Bray,,17:10,Is this train to howth or Malahid?,Route Confirmation,F,30,Confused
+,Bray,,19:35,Where is the toilet?,Toilet,M,20,Toilet info
+,Bray,,19:37,Is there any toilet in the station?,Toilet,F,40,Toilet info
+,Bray,,21:10,Greystones this side or far side?,Platform Info,M,45,Confirmation
+,Bray,,22:56,Which platform is to Tara Street?,Platform Info,F,30,New user
+,Bray,,23:20,Does the commuter train stop at Sydney Parade?,Route Confirmation,M,50,Confirmation
+Bray Static,Bray,8/1/2025,16:05,Whom to give this bag found on the train?,Lost & Found,F,40,Confirmation
+,Bray,,16:10,Where is the toilet?,Toilet,M,18,Toilet info
+,Bray,,17:50,Is this train going to Howth?,Route Confirmation,M,30,Confirmation
+,Bray,,21:15,Greystones which side?,Platform Info,M,45,Confirmation
+Central,Connolly,10/1/2025,16:45,How to go to platform 7?,Platform Info,M,30,Confused
+,Pearse,,17:25,Which way to exit?,Platform Info,M,45,Confused
+,Onboard,,17:35,Which station is close to RDS?,Station Stops,F,16,Confirmation
+,Booterstwon,,18:22,Why the board showing 3 min but wating for 5 to 6 min,Delay,M,35,Confused
+,Sandymount,,19:02,After how may stops is Tara Street?,Station Stops,F,35,New user
+,Pearse,,22:40,The board showing 3 min but wating for 5 min. What min means realy?,Delay,M,45,Frustated about the time.
+North Charlie,Harmenstwon,13/1/2025,17:23,How to use my leap card?,Ticketing,F,25,New user
+,Kilbarak,,19:46,What time is the next train to Dun L.?,Train Time,F,45,Confused about the time screen.
+,Clontarf Road,,22:05,Which platform to South?,Platform Info,M,35,Confused
+Bray Static,Connolly,14/1/2025,15:10,Where is platform 2?,Platform Info,M,20,Confused
+,Onboard,,15:56,Is there any toilet on the train?,Toilet,M,50,New user or tourist
+,Bray,,16:35,Which platform to Greystones?,Platform Info,F,20,Confirmation
+,Bray,,16:37,Where is the toilet?,Toilet,M,25,Toilet info
+,Bray,,17:17,Is this going to Malahid?,Route Confirmation,F,30,Confirmation
+,Bray,,18:50,Why the train to Howth delayed and for  how long?,Delay,M,45,Frustated about the time.
+,Bray,,21:07,Is this Greystones train? ,Platform Info,F,45,Confrimation
+,Bray,,23:12,What time is the last train to Connolly?,Train Time,M,50,Confrimation
+Bray Static,Onboard,15/1/2025,15:47,How to get back to Connolly again?,Route Confirmation,F,30,Confused. Took the wrong train.
+,Bray,,16:36,How to buy a ticket?,Ticketing,F,25,New user.
+,Bray,,17:01,"Why the train delayed, wating for 15 min?",Delay,M,25,Frustated about the time.
+South Bravo,Onboard,18/1/2025,17:05,How long to Dun L.?,Delay,F,45,Frustated about the time.
+,Dun Laogh.,,17:22,Where is the toilet?,Toilet,F,30,Toilet info
+,Sea Point,,18:12,How come the screen shows no delay but train is not here?,Delay,M,45,Frustated about the time.
+,Glenageary,,21:45,Which paltform to south?,Platform Info,M,20,Confirmation
+,Salthill,,22:50,Why the station looks dark?,Station Complain,M,35,Frustated about the lighting.
+,Dun Laogh.,,23:40,Is this the last train?,Last Train,M,25,Confirmation
+North Charlie,Connolly,19/01/2025,16:35,How to go to platform 6?,Platform Info,F,20,Confused
+,Kilbarak,,17:03,Is this platform to Bray?,Platform Info,M,15,Confirmation
+,Killester,,18:25,Why the ticket validator not working?,Station Complain,F,35,Frustated
+,Raheny,,20:56,Why the train is taking so long?,Delay,M,45,Sunday service
+,Howth J.,,21:35,Which Platform to Malahid?,Platform Info,F,25,Confused
+Bray Static,Bray,22/01/2025,16:56,Which platform to Greystones?,Platform Info,M,30,Confused
+,Bray,,17:18,Where is the toilet?,Toilet,F,20,Toilet info
+,Bray,,17:46,Is this train to Malahid? ,Platform Info,F,20,Confused
+,Bray,,21:27,Why the train to Howth still not here? ,Delay,M,30,Frustrated
+,Bray,,23:12,Which platform to Greystones? ,Platform Info ,M,40,Confirmation 
+Bray Static,Connolly ,23/01/2025,15:10,Where is the toilet?,Toilet ,M,30,Toilet info
+,Bray,,17:35,Does this go to Howth?,Platform Info,F,30,Confused
+,Bray,,23:10,How long the last howth train delayed?,Delay,M,45,Frustated
+Central,Pearse,24/01/2025,17:13,Is this HazleHetch train?,Route Confirmation,M,35,Confused
+,Blackrock,,19:20,Does this train go through city center?,Route Confirmation,M,35,New user
+,Pearse,,22:35,Why the board showing the same time for last 5 min?,Delay,M,40,Frustated 
+South Bravo,Onboard,27/01/2025,16:48,Is this going to greystones?,Route Confirmation,F,50,Confrimation
+,Dun Laogh.,,17:23,Which way is Connolly?,Platfrom Info,F,30,Tourist
+,Dalkey,,17:35,When is the next train to Bray?,Train Time,F,25,Confirmation
+,Sea Point,,22:05,Which Platform to Howth?,Platfrom Info,M,40,Confrimation
+Bray Static,Bray,28/1/2025,16:25,Where is Greystons train?,Platform Info,F,35,Confused
+,Bray,,16:56,Where is the toilet?,Toilet,M,50,Toilet info
+,Bray,,16:35,Is this train going to howth or malahid,Platform Info,M,50,Confirmation
+,Bray,,19:05,Where is the toilet?,Toilet,M,40,Toilet info
+,Bray,,22:50,Why the train to Howth delayed and for  how long?,Delay,M,35,Frustated about the time.
+,,,,,,,,
